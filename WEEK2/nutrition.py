@@ -23,3 +23,7 @@ match food:
         print("Calories: 80")
     case __:
         end = ""
+
+""" git add .                                
+git commit -m "Week 2: nutrition"
+git push """
