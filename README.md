@@ -5,4 +5,5 @@ This repository contains my solutions for Harvard's CS50P course, it demonstrate
 ## Progress
 - Week 0 [ done ]
 - Week 1 [ done ]
-- Week 2 [ started ]
+- Week 2 [ done ]
+- week 3 [ started ]
